@@ -42,7 +42,7 @@ Le modèle est évalué sur le jeu de test et affiche l'accuracy globale ainsi q
 
 📜 Remarques
 
-GPU supporté : Si une GPU CUDA est disponible, le modèle l'utilisera automatiquement.
+GPU supporté : Si un GPU CUDA est disponible, le modèle l'utilisera automatiquement.
 
 Hyperparamètres modifiables dans le script (nombre d'époques, learning rate, etc.).
 
