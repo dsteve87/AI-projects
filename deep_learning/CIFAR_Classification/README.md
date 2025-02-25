@@ -22,17 +22,19 @@ Entraînement du modèle
 🛠️ Installation
 
 Cloner le dépôt
-
+```bash
 git clone https://github.com/dsteve87/AI-projects.git
-cd cnn-cifar10
-
+```
 Installer les dépendances
 
+```bash
 pip install torch torchvision matplotlib
+```
 
 Lancer l'entraînement
-
+```bash
 python cifar10_cnn.py
+```
 
 🔍 Résultats
 
@@ -40,14 +42,14 @@ Le modèle est évalué sur le jeu de test et affiche l'accuracy globale ainsi q
 
 📜 Remarques
 
-GPU supporté : Si une GPU CUDA est disponible, le modèle l'utilisera automatiquement.
+GPU supporté : Si un GPU CUDA est disponible, le modèle l'utilisera automatiquement.
 
 Hyperparamètres modifiables dans le script (nombre d'époques, learning rate, etc.).
 
 📖 Références
 
-PyTorch Documentation
+[PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
 
-CIFAR-10 Dataset
+[CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 🚀 Bon entraînement !
