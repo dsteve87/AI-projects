@@ -20,8 +20,8 @@ Le modèle utilise une architecture simple avec une couche cachée de 500 neuron
 
 1. **Cloner le dépôt** :
     ```bash
-    git clone https://github.com/votre-utilisateur/mlp-mnist.git
-    cd mlp-mnist
+    git clone https://github.com/dsteve87/AI-projects.git
+  
     ```
 
 2. **Installer les dépendances** :
@@ -31,12 +31,12 @@ Le modèle utilise une architecture simple avec une couche cachée de 500 neuron
 
 3. **Lancer l'entraînement** :
     ```bash
-    python mnist_mlp.py
+    python MLP_MNIST_prediction.py
     ```
 
 🔍 **Résultats**
 
-Le modèle est évalué sur le jeu de test et affiche l'accuracy globale du modèle.
+Le modèle est évalué sur le jeu de test et affiche l'accuracy globale du modèle (96.84 % sur deux époques).
 
 📜 **Remarques**
 
