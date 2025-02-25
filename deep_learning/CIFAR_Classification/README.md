@@ -23,7 +23,7 @@ Entraînement du modèle
 
 Cloner le dépôt
 
-git clone https://github.com/votre-utilisateur/cnn-cifar10.git
+git clone https://github.com/dsteve87/AI-projects.git
 cd cnn-cifar10
 
 Installer les dépendances
