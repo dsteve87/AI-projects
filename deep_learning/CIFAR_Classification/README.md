@@ -32,7 +32,7 @@ pip install torch torchvision matplotlib
 ```
 
 Lancer l'entraînement
-``bash
+```bash
 python cifar10_cnn.py
 ```
 
