@@ -22,17 +22,19 @@ Entraînement du modèle
 🛠️ Installation
 
 Cloner le dépôt
-
+```bash
 git clone https://github.com/dsteve87/AI-projects.git
-cd cnn-cifar10
-
+```
 Installer les dépendances
 
+```bash
 pip install torch torchvision matplotlib
+```
 
 Lancer l'entraînement
-
+``bash
 python cifar10_cnn.py
+```
 
 🔍 Résultats
 
