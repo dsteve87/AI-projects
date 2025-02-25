@@ -48,8 +48,7 @@ Hyperparamètres modifiables dans le script (nombre d'époques, learning rate, e
 
 📖 Références
 
-PyTorch Documentation
-
-CIFAR-10 Dataset
+[PyTorch Documentation](https://pytorch.org/docs/stable/index.html)
+[CIFAR-10 Dataset](https://www.cs.toronto.edu/~kriz/cifar.html)
 
 🚀 Bon entraînement !
